@@ -1,0 +1,78 @@
+#titulo{ text-align: center;background-color:burlywood 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; color: brown; background-color: blanchedalmond;}
+.parrafo1{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; background-color: antiquewhite; text-align: justify;}
+#alineado{background-color: antiquewhite;}
+#titulo2{text-align: justify;background-color: bisque; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+.form{float: left;background-color: beige; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+.parrafo2{background-color: blanchedalmond; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+.al1{background-color: aqua;}
+.nav1{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; color: azure; background-color: bisque; color: aquamarine;}
+
+nav ol {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center; /* Centrar los elementos */
+  }
+  
+  nav ol li {
+    display: inline;
+    margin: 0 10px; /* Espacio entre los elementos */
+  }
+  
+  nav ol li a {
+    color: #5E6472; /* Gris oscuro */
+    text-decoration: none;
+    padding: 10px 15px; /* Espacio más pequeño */
+    position: relative; /* Para posicionar las joyas */
+  }
+  
+  nav ol li a:before {
+    content: '\2766'; /* Flor Unicode */
+    color:  #e8f584; /* Rosa pastel */
+    position: absolute;
+    top: -10px;
+    left: 50%;
+    transform: translateX(-50%); /* Centrar horizontalmente */
+  }
+  
+  nav ol li a:hover {
+    color:  #e8f584; /* Rosa pastel */
+  }
+
+  /* Añade este bloque de estilos al final de tu archivo CSS */
+
+
+.form2 {
+    float:left;
+    background-color: wheat;
+    
+   
+}
+.form3 {
+    float:left;
+    background-color: thistle;
+
+    
+   
+}
+
+#textarea1{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+
+#imagen2{
+    width: 100px;
+    height: 100px;
+   padding-top: 0%;
+
+
+
+
+
+
+}
+
+body{
+    background-image: url(imagen3.jfif);
+    background-size: cover;
+    s
+
+}
